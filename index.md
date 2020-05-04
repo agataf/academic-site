@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="blond_twarz.jpg">
 
 Hi! I am a Ph.D. candidate in Computer Science at Stanford, studying machine learning methods used for decision support.
 
